@@ -1,0 +1,23 @@
+{
+  "name": "TaxiTrips",
+  "version": "1.0.0",
+  "main": "taxi-trips.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "command": "^0.0.5",
+    "init": "^0.1.2",
+    "pg": "^8.7.1"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
